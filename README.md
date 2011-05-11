@@ -5,6 +5,10 @@ node-pashua is a simple library that makes it easy to use the Pashua
 application (http://www.bluem.net/de/mac/pashua/) from Node.js
 programs.
 
+For the moment, it requires Pashua to be installed in your
+Applications folder or to be located in the same directory as the node
+script that is using node-pashua.
+
 Pashua is a program to create MacOS Aqua dialogs from a simple text
 based description.  In order to display a dialog, Pashua is run with
 a dialog description as argument.  The dialog is shown, and the user
