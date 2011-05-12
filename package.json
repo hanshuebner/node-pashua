@@ -1,0 +1,17 @@
+{
+  "name": "pashua",
+  "description": "An interface to the Pashua dialog creator",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hanshuebner/node-pashua.git"
+  },
+  "author": "Hans Huebner <hans.huebner@gmail.com> (http://netzhansa.blogspot.com/)",
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "./lib/pashua",
+  "engines": {
+    "node": "*"
+  }
+}
